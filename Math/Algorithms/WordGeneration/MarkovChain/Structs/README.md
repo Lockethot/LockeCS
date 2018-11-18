@@ -1,0 +1,1 @@
+﻿The purpose of creating structs instead of classes is to lower overhead cost of having tons of these datastructures present.
